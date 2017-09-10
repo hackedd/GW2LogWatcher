@@ -1,0 +1,12 @@
+/.vs/
+/packages/
+/TestResults/
+/Test\ Files/test.config
+/Test\ Files/RaidHeroes/*
+
+bin/
+obj/
+
+*.user
+*.suo
+!.gitkeep

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <appSettings file="">
+        <clear />
+        <add key="RaidarUsername" value="test@example.org" />
+        <add key="RaidarPassword" value="secret" />
+    </appSettings>
+</configuration>

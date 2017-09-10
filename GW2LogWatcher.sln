@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GW2LogWatcher", "GW2LogWatcher\GW2LogWatcher.csproj", "{DB65D3DC-171A-4BDF-97F0-6FD863514F51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GW2LogWatcherTests", "GW2LogWatcherTests\GW2LogWatcherTests.csproj", "{927CC85B-F4E0-4659-8857-2514CB17165E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB65D3DC-171A-4BDF-97F0-6FD863514F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB65D3DC-171A-4BDF-97F0-6FD863514F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB65D3DC-171A-4BDF-97F0-6FD863514F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB65D3DC-171A-4BDF-97F0-6FD863514F51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{927CC85B-F4E0-4659-8857-2514CB17165E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927CC85B-F4E0-4659-8857-2514CB17165E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927CC85B-F4E0-4659-8857-2514CB17165E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927CC85B-F4E0-4659-8857-2514CB17165E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
