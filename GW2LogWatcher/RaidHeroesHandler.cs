@@ -23,7 +23,8 @@ namespace GW2LogWatcher
                     WorkingDirectory = directory,
                     UseShellExecute = false,
                     RedirectStandardOutput = true,
-                    RedirectStandardError = true
+                    RedirectStandardError = true,
+                    CreateNoWindow = true
                 }
             };
 
